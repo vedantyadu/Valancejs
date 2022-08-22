@@ -1,0 +1,39 @@
+
+{
+
+    "depth": {
+        "min": 10,
+        "max": 50
+    },
+    
+    "particleNumber": 100,
+
+    "linkParticles": {
+        "link": true,
+        "linkRadius": 150,
+        "color": "#136F63"
+    },
+
+    "effects": {
+        "parallax": true,
+        "connectMouse": false,
+        "scroll": false
+    },
+
+    "particles": {
+
+        "color": "#136F63",
+
+        "size": {
+            "min": 100,
+            "max": 100
+        },
+
+        "velocity": {
+            "x": 300,
+            "y": 300
+        }
+
+    }
+    
+}
