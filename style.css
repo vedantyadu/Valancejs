@@ -24,3 +24,13 @@ html, body {
     width: 100%;
     height: 100%;
 }
+.github {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #23a070;
+}
